@@ -1,0 +1,51 @@
+
+#footer{
+    width: auto;
+    height: 127pt;
+    background-color: #373A3C;
+}
+#receta{
+    margin: 0px;
+    border-bottom: black 1px;
+    
+}
+#tarjetas{
+    /* align-items: center; */
+    align-items: center;
+    margin: 0px 0px 0px 0px;
+    padding: 0px;
+}
+#formulario{
+    width: auto;
+    height: 448pt;
+    background-color: #DC3545;
+    margin: 0;
+    padding: 0;
+}
+H2{
+    font-family: 'cobin';
+    font:700,cobin;
+    color: #373A3C;
+    text-align: center;   
+}
+.estilo-titulo{
+    padding-top: 200;
+}
+.estilo-marca{
+    font-family: 'lobster';
+    font:400,lobster;
+    color: #FFFFFF;
+}
+.posicion-marca2{
+    padding-top: 80px;
+}
+.centrado{
+    text-align: center;
+    vertical-align: middle;
+}
+.padd{
+    padding-top: 150px;
+}
+.l-boton{
+    padding-left: 150px;
+}
