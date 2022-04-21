@@ -26,7 +26,8 @@ H2{
     font-family: 'cobin';
     font:700,cobin;
     color: #373A3C;
-    text-align: center;   
+    text-align: center; 
+    padding-bottom: 10px;  
 }
 .estilo-titulo{
     padding-top: 200;
@@ -43,9 +44,12 @@ H2{
     text-align: center;
     vertical-align: middle;
 }
-.padd{
-    padding-top: 150px;
+.p-top{
+    padding-top: 200px;
 }
-.l-boton{
-    padding-left: 150px;
+.estilo-boton{
+    width: 233pt;
+    height: 40pt;
+    font:400,cabin
 }
+    
